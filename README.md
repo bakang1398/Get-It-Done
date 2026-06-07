@@ -1,4 +1,4 @@
-# Ger-It-Done
+# Get-It-Done
 
 A basic Flutter to-do app.
 
