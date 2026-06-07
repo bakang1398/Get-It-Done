@@ -1,6 +1,6 @@
-# my_todo
+# Ger-It-Done
 
-A new Flutter project.
+A basic Flutter to-do app.
 
 ## Getting Started
 
